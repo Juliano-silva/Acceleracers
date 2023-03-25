@@ -1,0 +1,278 @@
+{
+    "Protagonistas":[
+        {
+            "Foto":"https://i.pinimg.com/564x/51/c7/96/51c796fa39ef09a0c5dca5e945bb06eb.jpg",
+            "name":"Vert Wheeler",
+            "description":"Vencedor da primeira Corrida Mundial há dois anos, Vert Wheeler quer provar que é bom, não apenas sortudo. Vert também acredita que tem as habilidades de direção necessárias para ser um grande líder de equipe Teku.",
+            "carros":["Deora II","Power Rage","Reverd"],
+            "equipe":"Teku"
+        },
+        {
+            "Foto":"https://preview.redd.it/78r5hfqf75781.jpg?width=640&crop=smart&auto=webp&s=c45b1d9054945f95a22230ad446845b7fcb2a06b",
+            "name":"Nolo Pasaro",
+            "description":"Nolo Pasaro é o líder sério e confiante de 18 anos do Teku. Ele foi criado nas ruas por seu irmão mais velho, Tone. Ele aprendeu sobre corridas e desenvolveu as habilidades para apoiar sua atitude.",
+            "carros":["High Voltage","Synkro","SpecTyte"],
+            "equipe":"Teku"
+        },
+        {
+            "Foto":"https://i.pinimg.com/564x/73/11/23/731123889c43e43fdf08ec78a50d7f6a.jpg",
+            "name":"Kurt Wylde",
+            "description":"Apesar de um passado duvidoso, Kurt Wylde provou ser o mais corajoso dos Teku. Kurt e o líder Teku Nolo são muito próximos, um relacionamento forjado a partir do que ele nunca teve com seu próprio irmão e agora rival, Markie Wylde.",
+            "carros":["Battle Spec","Slingshot"],
+            "equipe":"Teku"
+        },
+        {
+            "Foto":"https://i.pinimg.com/564x/e8/a7/4b/e8a74b7ba157df2117c58ca250f282da.jpg",
+            "name":"Shirako Takamoto",
+            "description":"Shirako Takamoto é um membro japonês da equipe Teku , bem como seu mecânico legal e calmo, e é apaixonado por música. Ele foi dublado pelo falecido Kirby Morrow .",
+            "carros":["Bassline","Nightlife"],
+            "equipe":"Teku"
+        },
+        {
+            "Foto":"https://i.pinimg.com/564x/fe/9f/40/fe9f407a70ea4e5981a3c6d1f273955c.jpg",
+            "name":"Karma Eiss",
+            "description":"Karma Eiss é uma beleza de cabelos negros com um ar frio e inacessível que constantemente busca a perfeição. Ela leva a si mesma e a seu carro ao limite.",
+            "carros":["Chicane"],
+            "equipe":"Teku"
+        },
+        {
+            "Foto":"http://pm1.narvii.com/7940/11e0d020ab9898355dc8aef029d09642448f22a4r1-1280-720v2_uhq.jpg",
+            "name":"Taro Kitano",
+            "description":"Taro Kitano encontrou um lar entre os Metal Maniacs depois de passar um tempo sozinho. Seu impulso e perfeccionismo só são igualados pelos Teku's, Karma Eiss . A atração que sentem um pelo outro se torna uma rivalidade na estrada.",
+            "carros":["Rivited","'70 Plymouth Road Runner"],
+            "equipe":"Metal Maniacs"
+        },
+        {
+            "Foto":"https://64.media.tumblr.com/80b4123faca2351858eaf5f9b651794c/9d492b8274069356-3a/s1280x1920/7a5ad4230b645bb2a65800e9c832ded78beabe9f.png",
+            "name":"Tork Maddox",
+            "description":"Tork Maddox é o líder duro, competitivo e implacável dos Metal Maniacs. Ele constantemente se desafia, seja correndo, lutando ou praticando esportes.",
+            "carros":["Hollowback"],
+            "equipe":"Metal Maniacs"
+        },
+        {
+            "Foto":"https://i.redd.it/tt0myxz509g71.jpg",
+            "name":"Deezel Riggs (Porkchop)",
+            "description":"Deezel 'Porkchop' Riggs é um bruto que usa osso de presunto e se recusa a contornar qualquer obstáculo; ele os esmaga. Porkchop nunca perdeu uma corrida até conhecer o Teku.",
+            "carros":["Piledriver","Jack Hammer","Jaw Jammer","Old Smokey"],
+            "equipe":"Metal Maniacs"
+        },
+        {
+            "Foto":"https://i.pinimg.com/564x/f9/e4/5b/f9e45b759748bbc2274102e6abe1f313.jpg",
+            "name":"Mark Wylde",
+            "description":"O irmão mais novo de Kurt, Markie 'Wylde' Wylde, é um piloto destemido e imprudente. Polido e tatuado, Wylde cresceu muito desde que começou a competir. Ao contrário de muitos dos outros Metal Maniacs, Wylde não corre pelo amor às corridas ou lute pelo amor de lutar. Ele quer provar que é o melhor e - mais especificamente - melhor que seu irmão mais velho",
+            "carros":["Flathead Fury","Spine Buster"],
+            "equipe":"Metal Maniacs"
+        },
+        {
+            "Foto":"https://static1.personality-database.com/profile_images/bf9964c282d845ffbb65f1db5a6b61f5.png",
+            "name":"Mitchell McClurg (Monkey)",
+            "description":"Mitch 'Monkey' McClurg é o mago mecânico residente do Metal Maniac. Ele se sente muito mais confortável na garagem ajustando os carros das equipes do que atrás do volante.",
+            "carros":["Rollin' Thunder","Rat-ified"],
+            "equipe":"Metal Maniacs"
+        },
+        {
+            "Foto":"https://i.pinimg.com/564x/a1/72/65/a17265b9905c43c647d031b14c30b85d.jpg",
+            "name":"Dr. Peter Tezla",
+            "description":"Dr. Peter Tezla é um ex-membro do Silencerz, o fundador da SCRIM Corporation e o organizador da Corrida Mundial. Ele tem um companheiro robô chamado GIG que o auxilia. Ele é dublado por Michael Donovan.",
+            "carros":["Nitrium"],
+            "equipe":"Acceledrome Crew"
+        },
+        {
+            "Foto":"https://i.pinimg.com/564x/fe/2a/b8/fe2ab855b5e83b60933c91977b61a0c3.jpg",
+            "name":"Lani Tam",
+            "description":"Antes da segunda mão, Vert apresenta Lani a Alec Wood . Lani é um dos vinte e um pilotos da segunda etapa . Ela perguntou a Mark Wylde se ele dirigia um carro a mais de 300 mph e Mark respondeu apenas em seus sonhos. Lani passa Vert, Alec Wood e Mark depois que Mark caiu entre Alec e Vert. Lani lembra a Vert que os Road Beasts estão pegando um atalho. Lani, Mark e Vert pegam o atalho, mas Alec permanece na pista. Lani, Mark e Vert passaram por uma ponte, mas quando a ponte começou a desabar com Vert, isso a assustou. Os Wave Rippers alcançam os Road Beasts com uma roda grande e uma rampa. Lani usa seu computador de bordo para saber a hora em que os motoristas iniciam. Lani inicia o cronômetro paraEsmeralda Sanchez para passar. Depois que Skeet passou, Lani foi em frente e conseguiu. Mark então vai, mas só foi 158 mph. A barra Nitrox 2 do Corvette Stingray cai e explode a roda, fazendo com que a velocidade saia do controle. Lani não sabia quando Vert e Banjee Castillo partiriam. Vert e Banjee vão em frente e passaram com sucesso. A roda explode depois.",
+            "carros":["Chevy Nomad '55"],
+            "equipe":"Acceledrome Crew"
+        }
+    ],
+    "Reinos":[
+    {
+        "name":"Storm",
+        "description":"O Reino da Tempestade é dominado por nuvens rodopiantes, condições de neblina, relâmpagos e até mesmo em um ponto uma nuvem de tempestade semelhante a um tornado na qual a pista deu uma volta.",
+        "Accelechargers":"Pára-raios: protege o carro de cargas elétricas."
+    },
+    {
+        "name":"Swamp",
+        "description":"A trilha começa em uma área de floresta cercada por árvores altas. A pista é a pista laranja normal, mas é coberta de vegetação com uma única linha não coberta de mofo. O molde causa menos tração para quem dirige sobre ele. A pista é dita orgânica no jogo de cartas, crescendo. Povoado no reino, existem bestas e insetos. Mais notavelmente, há um Mosquito Behemoth que é do tamanho de um carro e atacará os motoristas dentro do reino. Há uma Besta do Pântano no final da trilha, guardando o portal. Ele ganhará vida assim que um motorista se aproximar dele. Tem trepadeiras para contrair qualquer driver.",
+        "Accelechargers":"Sprout Road: Cria uma estrada orgânica de videiras sob o carro melhor se usado na vertical."
+    },
+    {
+        "name":"Water",
+        "description":"Os motoristas são afundados em uma estrutura semelhante a uma água-viva que cria uma bolha de ar ao redor do topo para envolver os carros. A parte inferior da estrutura se abre para permitir que os pilotos caiam na pista abaixo. A pista é envolta em um tubo de vidro subaquático e periodicamente apresenta furos, que não inundam o tubo. Os pilotos podem aquaplanar sobre a superfície para ficar acima da água e na pista. Grandes esqueletos de peixes que se assemelham a peixes-pescador nadam livremente na água ao redor do tubo e, às vezes, quebram nele. Existem várias divisões na pista e às vezes é cercada por vida marinha colorida, como corais. Eventualmente, a pista leva para cima na superfície e perde o tubo de vidro e faz com que os motoristas manobrem em torno de falésias à beira-mar. A pista mergulha e vira de modo que a superfície fique submersa",
+        "Accelechargers":"Hydro Glide: Dá ao carro a capacidade de dirigir na água."
+    },
+    {
+        "name":"Metro",
+        "description":"O reino começa em uma espécie de rodovia subterrânea com os carros entrando na frente do trânsito. Se alguém sobreviver ao ataque de carros do reino (ou encontrar um caminho para outras pistas), eles emergirão em uma rodovia aberta que leva a uma cidade negra e futurista. Tem-se a opção de sair da rodovia e entrar em um labirinto urbano evitando Kamikaze Semis tentando matá-lo, ou ficar na rodovia. Continue na rodovia, o caminho levará o motorista a uma ilha externa além da cidade que contém o portal.",
+        "Accelechargers":"Battering Bubble: Cria um campo de força ao redor do carro, permitindo que ele ultrapasse obstáculos sem perda de velocidade."
+    },
+    {
+        "name":"Neon Pipeline",
+        "description":"O Neon-Pipeline Realm leva os motoristas através de canos enormes e, às vezes, até mesmo sobre eles. Por dentro, as luzes de néon iluminam a pista e as peças saem do fundo. Algumas partes do tubo estão faltando ou têm buracos, enquanto outras diminuem de tamanho. Há também portas que se fecham a um ritmo constante e outros trilhos que se ramificam do principal. Desenhar e dirigir em todos os graus são habilidades que os motoristas devem dominar para vencer neste reino .",
+        "Accelechargers":"Wall Crawl: permite que o carro dirija de cabeça para baixo ou nas paredes."
+    },
+    {
+        "name":"Junk",
+        "description":"O Junk Realm é um reino cheio de carros e peças de sucata. É de cor avermelhada, sugerindo que todo o reino está enferrujado e gasto. Bolas de demolição, trituradores e guindastes eletromagnéticos pegando pilotos estão presentes. Há uma criatura robótica feita de peças de sucata que também sopra chamas. Este é o reino onde Mark Wylde foi perdido, devido a ele não seguir o ápice e ser retirado da pista.",
+        "Accelechargers":"Sem atrito: cria uma bolha sem atrito ao redor do carro."
+    },
+    {
+        "name":"Lava",
+        "description":"Prepare-se, vai ser quente! Especialmente neste Reino, você precisa se concentrar absolutamente no seu carro. O magma está em toda parte e aquece a pista, então você precisa estar atento aos seus pneus e à temperatura deles. Já tentou dirigir com pneus superaquecidos? Bem, você pode perder o controle facilmente a cada manobra e há uma chance muito grande de cair da pista, no mar de Lava. Portanto, pense duas vezes antes de dirigir por um atalho próximo ao mar de Lava. Com o Lava Realm Accelecharger , seus pneus se tornam indestrutíveis, o que significa que o calor não tem efeito, e você não precisa se preocupar com espigões ou desgaste do pneu ao usar este acelerador.",
+        "Accelechargers":"Pneus Impermeáveis: cria pneus regenerativos ou auto-reparadores que permanecem sempre em perfeitas condições."
+    },
+    {
+        "name":"Cavern",
+        "description":"O Reino da Caverna foi o terceiro reino em que os humanos entraram. Ele está localizado dentro de uma enorme caverna, com estalactites e estalagmites como perigos e obstáculos. A faixa geralmente se divide em várias faixas diferentes, mas depois se funde novamente em uma faixa. Existem criaturas semelhantes a morcegos que habitam dentro deste reino.",
+        "Accelechargers":"Night Sight: Permite que o motorista veja na escuridão total."
+    },
+    {
+        "name":"Ice",
+        "description":"O Ice Realm é escorregadio e sinuoso, com parte de sua trilha sob o gelo. É o oitavo reino em que os humanos entram e o quarto durante os micro-episódios. Parte da trilha passa por montes de neve. Ele atravessa e circunda colinas e vales de gelo e neve.",
+        "Accelechargers":"Slip Grip: Dá ao carro a capacidade de dirigir em terrenos escorregadios com o atrito necessário."
+    },
+    {
+        "name":"Cosmic",
+        "description":"O Reino Cósmico é um reino estelar com a trilha como anéis ao redor de um planeta. É um ambiente de baixa gravidade, então os motoristas devem manter a velocidade. Movimentos bruscos farão com que os motoristas saiam da pista. Um buraco negro fica perto da pista para 'absorver' qualquer motorista que possa ter se afastado muito da pista, e asteróides flutuam perto e, às vezes, na pista. A habilidade para este reino é dirigir em alta velocidade e evitar movimentos bruscos.",
+        "Accelechargers":"Velocidade da luz: permite ao usuário viajar na velocidade da luz. (Nota: Algumas fontes dizem que os efeitos do Cosmic Realm Accelecharger são aqueles listados no Solar Realm. Essas fontes não listam o Solar Realm entre os Racing Realms.) (De acordo com o site da CN, ele permite que você controle a gravidade, semelhante para o Acelerador do Reino Solar.)"
+    },
+    {
+        "name":"Neblina",
+        "description":"O Reino da Névoa foi um dos Reinos criados pelos Accelerons . É um reino cheio de névoa que bloqueia a visão do motorista de obstáculos gigantescos e curvas traiçoeiras, e também causa colisões.",
+        "Accelechargers":"Fog Vision: permite que os motoristas vejam claramente em condições de neblina."
+    },
+    {
+        "name":"Distorcido",
+        "description":"O Warped Realm é um Racing Realm onde as leis regulares da física, incluindo a gravidade, não se aplicam. Permanecer na pista ou evitar aberturas da pista são as habilidades possíveis de dominar neste Reino.",
+        "Accelechargers":"Teleport: Permite que o veículo se teletransporte para fora do problema."
+    },
+    {
+        "name":"Monument",
+        "description":"O Monument Realm é um Racing Realm onde a única maneira de sair das antigas tumbas do Monument Realm é decifrar seus misteriosos hieróglifos - um pouco desafiador ao passar por eles a 300 mph.",
+        "Accelechargers":"2-D: Permite que o veículo se torne bidimensional --- pode cortar outros carros."
+    },
+    {
+        "name":"Canyon",
+        "description":"The Canyon Realm:  é um Racing Realm que cruza um desfiladeiro profundo com quedas abruptas. A habilidade para este reino pode ser saltos de aterrissagem.",
+        "Accelechargers":"Hyper Jump: Permite que os carros do motorista façam saltos extremamente longos e altos com facilidade."
+    },
+    {
+        "name":"Chrome",
+        "description":"O Chrome Realm: é um reino que apresenta enormes esferas de prata que esmagam carros. A habilidade é distinguir entre o que é um reflexo e o que não é.",
+        "Accelechargers":"Undistort: Apaga qualquer ilusão ou miragem vista pelo motorista."
+    },
+    {
+        "name":"Vento",
+        "description":"O Wind Realm é um Racing Realm que apresenta tornados, pistas oscilantes, detritos voadores e ventos selvagens. A habilidade está dirigindo através de ventos fortes.",
+        "Accelechargers":"Wind Shark: permite que o carro passe até mesmo pela mais forte rajada de vento."
+    },
+    {
+        "name":"Solar",
+        "description":"O Solar Realm é um Racing Realm que leva os pilotos a uma pista quente ao redor do sol que produz explosões solares e calor intenso. A habilidade pode estar dirigindo com o sol nos olhos.",
+        "Accelechargers":"Anti Gravitation: Permite que um carro manipule/controle a gravidade."
+    },
+    {
+        "name":"Labirinto",
+        "description":"O Labyrinth Realm é um Racing Realm que ocorre em um labirinto gigante, contendo 'Maze Minotaurs'. A habilidade é lembrar o seu caminho se estiver perdido.",
+        "Accelechargers":"Navegação: O Labyrinth Realm AcceleCharger (Navegador) manipula o sistema de GPS de um carro e aponta todas as direções corretas que levam à linha de chegada."
+    },
+    {
+        "name":"Nevasca",
+        "description":"O Blizzard Realm  é um Racing Realm com violentas tempestades de neve que enterrarão carros inteiros, visibilidade zero, granizo feroz, gelo e neve profunda. A habilidade para este reino pode ser controlar seu veículo em uma nevasca extrema. É semelhante ao Reino do Gelo .",
+        "Accelechargers":"Total Traction:  Dá tração total ao carro em qualquer terreno."
+    },
+    {
+        "name":"Reactor",
+        "description":"O Reactor Realm é um Racing Realm que apresenta derramamentos tóxicos e máquinas de patrulha que removerão veículos em movimento lento.",
+        "Accelechargers":"Sound Buffer: Um Accelecharger irá isolar o som do carro do motorista."
+    },
+    {
+        "name":"Cybergrid",
+        "description":"O Cybergrid Realm  é um Racing Realm com uma pista sobrecarregada, bem como um labirinto de curvas de 90 graus e contramedidas elétricas. A habilidade para este reino é aperfeiçoar curvas de 90 graus.",
+        "Accelechargers":"Folding Corners: Permite que os carros façam curvas de 90 graus."
+    },
+    {
+        "name":"Deserto",
+        "description":"O Desert Realm é um Racing Realm que contém violentas tempestades de areia, escorpiões gigantes, areia movediça e perigosas passagens rochosas. A habilidade é dirigir em condições desérticas.",
+        "Accelechargers":"Sand Speed: Funde areia e outras superfícies instáveis ​​por um curto período de tempo, o que permite que você passe por cima dela com segurança."
+    },
+    {
+        "name":"Micro",
+        "description":"O Micro Realm é um Racing Realm onde todos os carros são do tamanho de brinquedos. A habilidade é evitar obstáculos maiores que você da melhor maneira possível.",
+        "Accelechargers":"Size Scaler:concederá ao carro a capacidade de alterar seu tamanho."
+    },
+    {
+        "name":"Ruínas",
+        "description":"As estruturas do Reino das Ruínas são antigas e podem entrar em colapso a qualquer momento. Isso pode sugerir que a habilidade para esse domínio pode ser dirigir em superfícies delicadas ou entender como o peso de um veículo afeta o desempenho. O acelerador deste reino também pode dar dicas de que a habilidade para este reino pode estar evitando obstáculos, mas isso o torna semelhante ao Micro Reino .",
+        "Accelechargers":"Forma Fantasma: Permite que o carro passe por objetos."
+    },
+    {
+        "name":"Penhasco",
+        "description":"The Cliffside Realm é um Racing Realm que acontece ao lado de um penhasco sem fundo, com a pista tendo uma queda dramática. O único perigo são as próprias curvas, pois um movimento errado pode causar a queda do motorista. Neste domínio, os motoristas precisam dominar a derrapagem em curvas fechadas.",
+        "Accelechargers":"Turn & Burn: permite que o carro faça curvas fechadas sem diminuir a velocidade."
+    },
+    {
+        "name":"Ultima Race",
+        "description":"A Ultimate Race é uma longa maratona depois que vários dos Racing Realms foram concluídos. Termina com a Esfera , e o vencedor ganha passagem para o planeta natal Acceleron . Ele pode ser acessado combinando a energia de 14 ou mais Accelechargers e levará o usuário através desses reinos para alcançar a Esfera. Qualquer piloto que usar os Accelechargers para trapacear durante a corrida não terá passagem para o planeta natal Acceleron.",
+        "Accelechargers":""
+    }
+],
+"Inimigos":[
+    {
+        "name":"Gelorum",
+        "description":"Após os eventos da Corrida Mundial, Gelorum teve seu olho reparado. Ela foi capaz de impedir o Dr. Tezla de obter a Roda do Poder em Ignição . Mais tarde, ela capturou Kadeem quando ele saiu da pista no Storm Realm , e eventualmente o transformou em um drone. Na Ultimate Race , descobrimos que ela e os Drones capturaram Wylde . Ela o torturou e transformou seu braço esquerdo no braço de um Drone. Wylde foi então forçado a dar a ela a localização do Acceledrome. Ela então liderou o ataque contra o Dr. Tezla e pegou todos os Accelechargers, planejando matar Tezla quando ela voltasse. Ela então atravessou o portal para encontrar oAccelerons , e Vert foi atrás dela (apesar dos drones tentarem detê-lo). Ao ver os Accelerons, ela então descarta seu disfarce humano e se transforma em sua verdadeira forma para tentar atacar Vert, mas o Acceleron a impede de fazer isso e a joga para longe. Esta é a última vez que vemos Gelorum.",
+        "carros":["RD-09"],
+        "equipe":"Racing Drones"
+    },
+    {
+        "name":"Major Wheeler",
+        "description":"O esquadrão do Major Wheeler é convocado novamente e ele deixa um recado para Vert. Depois de deixar o Acceledrome , Vert retorna para a casa de sua família . Vert está na garagem limpando sua prancha de surfe quando Jack volta para casa porque tinha algumas coisas para pegar. Ele percebe que Vert trouxe uma nova motocicleta , com Vert explicando que seu carro bateu. Jack diz a Vert para ter mais cuidado e Vert se lembra de como sua mãe sempre dizia isso para ele sempre que ele partia. Depois os dois vão para dentro de casa.",
+        "carros":["Iridium"],
+        "equipe":"Silencerz"
+    }
+],
+"Equipes":[
+    {
+        "name":"Teku",
+        "description":"Eles têm uma rivalidade feroz com outra equipe de corrida de rua, os Metal Maniacs . O conflito diminui gradualmente no início de Breaking Point , depois que Tork Maddox salvou Nolo Pasaro no Metro Realm , e as duas equipes finalmente encontraram um novo vínculo no final de Ultimate Race, após uma missão com risco de vida para salvar Mark Wylde , o irmão mais novo de Kurt Wylde ."
+    },
+    {
+        "name":"Silencerz",
+        "description":"Os Silencerz são um grupo secreto que possui tecnologia muito avançada. Eles preferem deixar as outras equipes lutarem antes de entrarem em cena. Eles confiam na furtividade e no engano para vencer.Logo Silencerz alternativo As cores da equipe são prata, branco e roxo. Os Silencerz têm robôs e também membros humanos. Os robôs flutuantes que eles possuem são chamados de X-88 Drones , e podem entrar nos reinos sem carro. Os membros do Silencerz usam trajes completos e capacetes que também possuem a mesma tecnologia holográfica para se disfarçar de motoristas de motocicletas ou carros com bancos expostos."
+    },
+    {
+        "name":"Metal Maniacs",
+        "description":"Os Metal Maniacs são uma equipe de corrida de rua que gosta de muscle cars rústicos e de aparência legal. Seus carros tendem a ter recursos como armaduras, pontas e lança-chamas. Eles são um grupo muito unido, frequentemente dizendo 'Estamos unidos' e tentam ajudar qualquer um de seus companheiros em necessidade. Eles são liderados por Tork Maddox e rivalizam com a equipe de corrida de rua Teku .  O conflito entre as duas equipes acaba esfriando ao longo das séries, e finalmente a partir de um novo vínculo após o fim da Ultimate Race , com a missão de salvar Mark Wylde, iniciada por seu irmão mais velho Kurt Wylde ."
+    },
+    {
+        "name":"Racing Drones",
+        "description":"Os Racing Drones são um exército construído para dirigir pelos Accelerons . Seu líder é Gelorum . As cores do time são preto e verde. Eles têm tecnologia mais avançada e quantidades ilimitadas de carros e motoristas. Eles têm tecnologia que lhes permite copiar e redistribuir as habilidades dos Accelechargers em seus drivers."
+    }
+],
+"Filmes":[
+    {
+        "name":"Ignition",
+        "sinopse":"Os Drones de Corrida roubaram a Roda do Poder , e planejam ganhar todos os poderosos Accelechargers nos Reinos de Corrida . Equipes rivais, Teku e Metal Maniacs , são contatadas pelo Dr. Tezla para correr nos reinos e acabar com os Racing Drones.",
+        "tempoFilme":"60 minutos",
+        "data":"8 de janeiro de 2005"
+    },
+    {
+        "name":"The Speed of Silence",
+        "sinopse":"As duas equipes concorrentes,  Teku  e  Metal Maniacs , entram em novos reinos em busca de mais  Accelechargers . As equipes enfrentam novos desafios, incluindo um enorme  varredor devorador de carros  e a misteriosa quarta equipe, os  Silencerz .",
+        "tempoFilme":"60 minutos",
+        "data":"19 de março de 2005"
+    },
+    {
+        "name":"Breaking Point",
+        "sinopse":"As duas equipes de pilotos, Teku e Metal Maniacs , entram em dois novos Reinos de Corrida , onde ficam mais próximos do misterioso Silencerz .Em um acidente estranho, um dos pilotos é deixado para trás e é capturado pelos Racing Drones .",
+        "tempoFilme":"60 minutos",
+        "data":"25 de junho de 2005"
+    },
+    {
+        "name":"Ultimate Race",
+        "sinopse":"Os pilotos entram em Neon Pipeline, onde terão que mostrar toda sua habilidade ao volante em um percurso muito elaborado. Nesse episódio, os pilotos descobrem que há entre eles uma equipe misteriosa. O irmão de um dos pilotos é seqüestrado por Gelorum e os malignos Racing Drones.",
+        "tempoFilme":"60 minutos",
+        "data":"1º de outubro de 2005"
+    }
+]
+}
